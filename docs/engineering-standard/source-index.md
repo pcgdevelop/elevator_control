@@ -1,0 +1,41 @@
+# Quellenindex
+
+Geprüfter Ausgangsbaum: a1ddfd68bb7a3f29376f7618dba6f2933b9977e4. API-Baum vollständig: True. 37 versionierte Dateien. Bei einem abgeschnittenen Baum ist vollständige Inventarisierung ausdrücklich offen. Dateinamen belegen keine fertige Produktfunktion.
+
+- `.gitignore`
+- `.vscode/c_cpp_properties.json`
+- `.vscode/settings.json`
+- `CMakeLists.txt`
+- `Makefile`
+- `config.json`
+- `dockerfile`
+- `include/api/AutoXing.hpp`
+- `include/cli/Args.hpp`
+- `include/elevator/Elevator.hpp`
+- `include/elevator/GeprogElevator.hpp`
+- `include/elevator/LutzElevator.hpp`
+- `include/elevator/SchindlerElevator.hpp`
+- `include/robot/RobotRestAPI.hpp`
+- `include/robot/RobotWebSocket.hpp`
+- `include/robot/useRobot.hpp`
+- `include/useElevator.hpp`
+- `include/utils/config_loader.hpp`
+- `include/utils/log.hpp`
+- `include/utils/messages.hpp`
+- `include/utils/types.hpp`
+- `main.cpp`
+- `readme.md`
+- `run.sh`
+- `setup_server.sh`
+- `src/api/AutoXing.cpp`
+- `src/cli/Args.cpp`
+- `src/elevator/Elevator.cpp`
+- `src/elevator/GeprogElevator.cpp`
+- `src/elevator/LutzElevator.cpp`
+- `src/elevator/SchindlerElevator.cpp`
+- `src/elevator/utils/types.cpp`
+- `src/robot/RobotRestAPI.cpp`
+- `src/robot/RobotWebSocket.cpp`
+- `src/robot/useRobot.cpp`
+- `src/useElevator.cpp`
+- `tests/test_main.cpp`
