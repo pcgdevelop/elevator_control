@@ -1,0 +1,13 @@
+{
+  "repository": "pcgdevelop/elevator_control",
+  "specification_status": "Draft; source discovery is not runtime acceptance",
+  "features": [
+    {
+      "id": "ELEVATOR_CONTROL-01",
+      "name": "Quellenbereich src",
+      "source": "src/api/AutoXing.cpp",
+      "ticket": "pcgdevelop/elevator_control#6",
+      "status": "Source discovery; acceptance open"
+    }
+  ]
+}
